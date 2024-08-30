@@ -1,0 +1,462 @@
+Loading the ModusToolbox Technology Packs and Early Access Packs
+Finished loading the ModusToolbox Technology Packs and Early Access Packs (0 ms)
+Loading the tools information
+Finished loading the tools information (16 ms)
+Loading the application in directory 'C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/PSoC-6_with_BDH_Platform_Template'
+using cached data from file 'C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/PSoC-6_with_BDH_Platform_Template/.mtbqueryapi'
+creating application information from 'get_app_info' data
+finished creating application information from 'get_app_info' data (23 ms)
+Finished loading the application data (53 ms total, 0 make)
+Loading asset repository references
+Finished loading the asset repository references (86 ms)
+Loading the manifest data
+Loading super manfiest files from all sources
+Processing manifest loc file 'C:/Users/srien/.modustoolbox/manifest.loc'
+Found user super-manifest(s):
+  'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml'
+Downloading super manifest file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml'
+Getting manifests from remote and/or local sources
+Processing system manifest 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading super manifest file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished loading super manifest files from all sources
+Finished download of file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml'
+Starting to parse super manifest with URL 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml'
+Finished parsing super manifest with URL 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml'
+Downloading manifest file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-basic-app-manifest.xml'
+Downloading manifest file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-ff-app-manifest.xml'
+Downloading manifest file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-app-manifest.xml'
+Finished download of file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Starting to parse super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished parsing super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Altia-Marketing/altia-ce-manifest/raw/main/altia-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-ce-manifest/raw/main/avnet-iotc-mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-ce-manifest/raw/main/rutronik-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/sensiml/sensiml-ce-manifest/raw/main/sensiml-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-capabilities-manifest.json'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-mw-manifest/raw/main/avnet-iotc-mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/sensiml/sensiml-mw-manifest/raw/main/sensiml-mw-manifest-fv2.xml'
+Finished download of file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-basic-app-manifest.xml'
+Finished download of file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-ff-app-manifest.xml'
+Finished download of file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-app-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/Altia-Marketing/altia-ce-manifest/raw/main/altia-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-ce-manifest/raw/main/avnet-iotc-mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-ce-manifest/raw/main/rutronik-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/sensiml/sensiml-ce-manifest/raw/main/sensiml-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-capabilities-manifest.json'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-mw-manifest/raw/main/avnet-iotc-mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/sensiml/sensiml-mw-manifest/raw/main/sensiml-mw-manifest-fv2.xml'
+Finished loading the manifest data (1602 ms)
+Starting to refresh dependencies for project 'mtb-example-psoc6-freertos-wifi-mqtt-client'.
+Refreshed all dependencies for project 'mtb-example-psoc6-freertos-wifi-mqtt-client'.
+0 error(s), 0 warning(s)
+Successfully acquired the information.
+
+Loading the ModusToolbox Technology Packs and Early Access Packs
+Finished loading the ModusToolbox Technology Packs and Early Access Packs (0 ms)
+Loading the tools information
+Finished loading the tools information (16 ms)
+Loading the application in directory 'C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/PSoC-6_with_BDH_Platform_Template'
+using cached data from file 'C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/PSoC-6_with_BDH_Platform_Template/.mtbqueryapi'
+creating application information from 'get_app_info' data
+finished creating application information from 'get_app_info' data (23 ms)
+Finished loading the application data (53 ms total, 0 make)
+Loading asset repository references
+Finished loading the asset repository references (86 ms)
+Loading the manifest data
+Loading super manfiest files from all sources
+Processing manifest loc file 'C:/Users/srien/.modustoolbox/manifest.loc'
+Found user super-manifest(s):
+  'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml'
+Downloading super manifest file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml'
+Getting manifests from remote and/or local sources
+Processing system manifest 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading super manifest file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished loading super manifest files from all sources
+Finished download of file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml'
+Starting to parse super manifest with URL 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml'
+Finished parsing super manifest with URL 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-super-manifest.xml'
+Downloading manifest file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-basic-app-manifest.xml'
+Downloading manifest file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-ff-app-manifest.xml'
+Downloading manifest file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-app-manifest.xml'
+Finished download of file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Starting to parse super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished parsing super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Altia-Marketing/altia-ce-manifest/raw/main/altia-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-ce-manifest/raw/main/avnet-iotc-mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-ce-manifest/raw/main/rutronik-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/sensiml/sensiml-ce-manifest/raw/main/sensiml-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-capabilities-manifest.json'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-mw-manifest/raw/main/avnet-iotc-mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/sensiml/sensiml-mw-manifest/raw/main/sensiml-mw-manifest-fv2.xml'
+Finished download of file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-basic-app-manifest.xml'
+Finished download of file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-ff-app-manifest.xml'
+Finished download of file 'https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-app-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/Altia-Marketing/altia-ce-manifest/raw/main/altia-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-ce-manifest/raw/main/avnet-iotc-mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-ce-manifest/raw/main/rutronik-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/sensiml/sensiml-ce-manifest/raw/main/sensiml-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-capabilities-manifest.json'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-mw-manifest/raw/main/avnet-iotc-mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/sensiml/sensiml-mw-manifest/raw/main/sensiml-mw-manifest-fv2.xml'
+Finished loading the manifest data (1602 ms)
+Starting to refresh dependencies for project 'mtb-example-psoc6-freertos-wifi-mqtt-client'.
+Refreshed all dependencies for project 'mtb-example-psoc6-freertos-wifi-mqtt-client'.
+0 error(s), 0 warning(s)
+Successfully acquired the information.Updating application "PSoC-6_with_BDH_Platform_Template" ...
+Starting to commit changes to the filesystem and project 'mtb-example-psoc6-freertos-wifi-mqtt-client'.
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/BMI160_driver/bmi160_v3.9.1 -c advice.detachedHead=false checkout bmi160_v3.9.1 --force
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/BMM150-Sensor-API/bmm150_v2.0.0 -c advice.detachedHead=false checkout bmm150_v2.0.0 --force
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/capsense/release-v3.0.0 -c advice.detachedHead=false checkout release-v3.0.0 --force
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/kv-store/release-v1.1.0 -c advice.detachedHead=false checkout release-v1.1.0 --force
+HEAD is now at 3ac7bb6 Updated to v3.9.1. Fixed bugs in the sensor configuration. Added examples. Updated the callback interfaces.
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/BMI160_driver/bmi160_v3.9.1 -c advice.detachedHead=false checkout bmi160_v3.9.1 --force
+Finished processing BMI160_driver
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/middleware-ntshell/latest-v2.X fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+HEAD is now at a20641f Updated README.md
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/BMM150-Sensor-API/bmm150_v2.0.0 -c advice.detachedHead=false checkout bmm150_v2.0.0 --force
+Finished processing BMM150-Sensor-API
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/mqtt/release-v3.4.2 -c advice.detachedHead=false checkout release-v3.4.2 --force
+HEAD is now at 6d8e0a0 Upload kv-store 1.1.0.28441
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/kv-store/release-v1.1.0 -c advice.detachedHead=false checkout release-v1.1.0 --force
+Finished processing kv-store
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/retarget-io/release-v1.3.0 -c advice.detachedHead=false checkout release-v1.3.0 --force
+HEAD is now at 01dac81 Upload capsense 3.0.0.2705
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/capsense/release-v3.0.0 -c advice.detachedHead=false checkout release-v3.0.0 --force
+Finished processing capsense
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/rgb-led/release-v1.2.1 -c advice.detachedHead=false checkout release-v1.2.1 --force
+HEAD is now at 75a512a Upload mqtt 3.4.2.1319
+HEAD is now at a61cd7c Upload retarget-io 1.3.0.25183
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/mqtt/release-v3.4.2 -c advice.detachedHead=false checkout release-v3.4.2 --force
+Finished processing mqtt
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/sensor-orientation-bmx160/release-v1.0.1 -c advice.detachedHead=false checkout release-v1.0.1 --force
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/retarget-io/release-v1.3.0 -c advice.detachedHead=false checkout release-v1.3.0 --force
+Finished processing retarget-io
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/sensor-xensiv-dps3xx/release-v1.0.0 -c advice.detachedHead=false checkout release-v1.0.0 --force
+HEAD is now at 8eb3fc2 Upload rgb-led 1.2.1.23328
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/rgb-led/release-v1.2.1 -c advice.detachedHead=false checkout release-v1.2.1 --force
+Finished processing rgb-led
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/serial-flash/release-v1.3.0 -c advice.detachedHead=false checkout release-v1.3.0 --force
+HEAD is now at 0e492b3 Upload sensor-orientation-bmx160 1.0.1.25183
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/sensor-orientation-bmx160/release-v1.0.1 -c advice.detachedHead=false checkout release-v1.0.1 --force
+Finished processing sensor-orientation-bmx160
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/wifi-core-freertos-lwip-mbedtls/release-v1.0.0 -c advice.detachedHead=false checkout release-v1.0.0 --force
+HEAD is now at bdf5a3c Upload sensor-xensiv-dps3xx 1.0.0.23328
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/sensor-xensiv-dps3xx/release-v1.0.0 -c advice.detachedHead=false checkout release-v1.0.0 --force
+Finished processing sensor-xensiv-dps3xx
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/abstraction-rtos/release-v1.6.0 -c advice.detachedHead=false checkout release-v1.6.0 --force
+HEAD is now at c7b55aa Upload serial-flash 1.3.0.27308
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/serial-flash/release-v1.3.0 -c advice.detachedHead=false checkout release-v1.3.0 --force
+Finished processing serial-flash
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00 -c advice.detachedHead=false checkout 202103.00 --force
+HEAD is now at be86442 Upload wifi-core-freertos-lwip-mbedtls 1.0.0.67
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/wifi-core-freertos-lwip-mbedtls/release-v1.0.0 -c advice.detachedHead=false checkout release-v1.0.0 --force
+Finished processing wifi-core-freertos-lwip-mbedtls
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-port/release-v2.2.2 -c advice.detachedHead=false checkout release-v2.2.2 --force
+HEAD is now at 7a3c39f Upload abstraction-rtos 1.6.0.29736
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/abstraction-rtos/release-v1.6.0 -c advice.detachedHead=false checkout release-v1.6.0 --force
+Finished processing abstraction-rtos
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/cat1cm0p/release-v1.0.0 -c advice.detachedHead=false checkout release-v1.0.0 --force
+HEAD is now at af897d0 Upload aws-iot-device-sdk-port 2.2.2.382
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-port/release-v2.2.2 -c advice.detachedHead=false checkout release-v2.2.2 --force
+Finished processing aws-iot-device-sdk-port
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/clib-support/release-v1.3.0 -c advice.detachedHead=false checkout release-v1.3.0 --force
+HEAD is now at 01150a0 Update release workflows to run on Ubuntu 18.04 runners (#1575)
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00 -c advice.detachedHead=false checkout 202103.00 --force
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/cmsis/release-v5.8.0 -c advice.detachedHead=false checkout release-v5.8.0 --force
+HEAD is now at b3d4b82 Upload cat1cm0p 1.0.0.148
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/cat1cm0p/release-v1.0.0 -c advice.detachedHead=false checkout release-v1.0.0 --force
+Finished processing cat1cm0p
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/connectivity-utilities/release-v4.0.0 -c advice.detachedHead=false checkout release-v4.0.0 --force
+HEAD is now at d3e0bca Upload clib-support 1.3.0.29736
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/clib-support/release-v1.3.0 -c advice.detachedHead=false checkout release-v1.3.0 --force
+Finished processing clib-support
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/core-lib/release-v1.3.1 -c advice.detachedHead=false checkout release-v1.3.1 --force
+HEAD is now at ca896aa Upload connectivity-utilities 4.0.0.1341
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/connectivity-utilities/release-v4.0.0 -c advice.detachedHead=false checkout release-v4.0.0 --force
+Finished processing connectivity-utilities
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/core-make/release-v3.0.3 -c advice.detachedHead=false checkout release-v3.0.3 --force
+HEAD is now at ce02f64 Upload cmsis 5.8.0.50
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/cmsis/release-v5.8.0 -c advice.detachedHead=false checkout release-v5.8.0 --force
+Finished processing cmsis
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/cy-mbedtls-acceleration/release-v1.4.1 -c advice.detachedHead=false checkout release-v1.4.1 --force
+HEAD is now at 1c1cb8a Upload core-lib 1.3.1.29660
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/core-lib/release-v1.3.1 -c advice.detachedHead=false checkout release-v1.3.1 --force
+Finished processing core-lib
+Starting: git -C C:/Users/srien/.modustoolbox/global/device-db/release-v4.17.0 -c advice.detachedHead=false checkout release-v4.17.0 --force
+HEAD is now at 9137ac7 Upload core-make 3.0.3.4386 [782]
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/core-make/release-v3.0.3 -c advice.detachedHead=false checkout release-v3.0.3 --force
+Finished processing core-make
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/freertos/release-v10.4.304 -c advice.detachedHead=false checkout release-v10.4.304 --force
+HEAD is now at 1fe9b63 Upload cy-mbedtls-acceleration 1.4.1.930
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/cy-mbedtls-acceleration/release-v1.4.1 -c advice.detachedHead=false checkout release-v1.4.1 --force
+Finished processing cy-mbedtls-acceleration
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/lwip-freertos-integration/release-v1.0.0 -c advice.detachedHead=false checkout release-v1.0.0 --force
+HEAD is now at f4797e9 Upload lwip-freertos-integration 1.0.0.19
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/lwip-freertos-integration/release-v1.0.0 -c advice.detachedHead=false checkout release-v1.0.0 --force
+Finished processing lwip-freertos-integration
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/lwip-network-interface-integration/release-v1.0.0 -c advice.detachedHead=false checkout release-v1.0.0 --force
+HEAD is now at ec40ef0 Upload freertos 10.4.304.461
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/freertos/release-v10.4.304 -c advice.detachedHead=false checkout release-v10.4.304 --force
+Finished processing freertos
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/lwip/STABLE-2_1_2_RELEASE -c advice.detachedHead=false checkout STABLE-2_1_2_RELEASE --force
+HEAD is now at 845718e Upload lwip-network-interface-integration 1.0.0.203
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/lwip-network-interface-integration/release-v1.0.0 -c advice.detachedHead=false checkout release-v1.0.0 --force
+Finished processing lwip-network-interface-integration
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/mbedtls/mbedtls-2.25.0 -c advice.detachedHead=false checkout mbedtls-2.25.0 --force
+HEAD is now at 159e31b6 Prepare 2.1.2 release
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/lwip/STABLE-2_1_2_RELEASE -c advice.detachedHead=false checkout STABLE-2_1_2_RELEASE --force
+Finished processing lwip
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/mtb-hal-cat1/release-v2.2.0 -c advice.detachedHead=false checkout release-v2.2.0 --force
+HEAD is now at 1c54b5410 Merge pull request #786 from ARMmbed/dev/yanesca/mbedtls-2.25.0r0-pr
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/mbedtls/mbedtls-2.25.0 -c advice.detachedHead=false checkout mbedtls-2.25.0 --force
+Finished processing mbedtls
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/mtb-pdl-cat1/release-v3.2.0 -c advice.detachedHead=false checkout release-v3.2.0 --force
+HEAD is now at d672ead Upload mtb-hal-cat1 2.2.0.30598
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/mtb-hal-cat1/release-v2.2.0 -c advice.detachedHead=false checkout release-v2.2.0 --force
+Finished processing mtb-hal-cat1
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/recipe-make-cat1a/release-v2.0.0 -c advice.detachedHead=false checkout release-v2.0.0 --force
+HEAD is now at 28d875a Upload recipe-make-cat1a 2.0.0.4056
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/recipe-make-cat1a/release-v2.0.0 -c advice.detachedHead=false checkout release-v2.0.0 --force
+Finished processing recipe-make-cat1a
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/secure-sockets/release-v3.0.0 -c advice.detachedHead=false checkout release-v3.0.0 --force
+HEAD is now at bff5d60 Upload secure-sockets 3.0.0.2312
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/secure-sockets/release-v3.0.0 -c advice.detachedHead=false checkout release-v3.0.0 --force
+Finished processing secure-sockets
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/whd-bsp-integration/release-v2.1.0 -c advice.detachedHead=false checkout release-v2.1.0 --force
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/middleware-ntshell/latest-v2.X fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/wifi-connection-manager/release-v3.0.0 -c advice.detachedHead=false checkout release-v3.0.0 --force
+HEAD is now at e67d148 Upload whd-bsp-integration 2.1.0.29660
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/whd-bsp-integration/release-v2.1.0 -c advice.detachedHead=false checkout release-v2.1.0 --force
+Finished processing whd-bsp-integration
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/wifi-host-driver/release-v3.2.0 -c advice.detachedHead=false checkout release-v3.2.0 --force
+HEAD is now at 3bd35be Upload mtb-pdl-cat1 3.2.0.20064 [335]
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/mtb-pdl-cat1/release-v3.2.0 -c advice.detachedHead=false checkout release-v3.2.0 --force
+Finished processing mtb-pdl-cat1
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/wpa3-external-supplicant/release-v1.1.0 -c advice.detachedHead=false checkout release-v1.1.0 --force
+HEAD is now at a09628f Upload wifi-connection-manager 3.0.0.1660
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/wifi-connection-manager/release-v3.0.0 -c advice.detachedHead=false checkout release-v3.0.0 --force
+Finished processing wifi-connection-manager
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00 -c protocol.file.allow=always submodule update --init --force
+HEAD is now at 55639e2 Upload wifi-host-driver 3.2.0.23895 [2502]
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/wifi-host-driver/release-v3.2.0 -c advice.detachedHead=false checkout release-v3.2.0 --force
+Finished processing wifi-host-driver
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/middleware-ntshell/latest-v2.X -c advice.detachedHead=false checkout latest-v2.X --force
+HEAD is now at ca71f1d Upload wpa3-external-supplicant 1.1.0.98
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/wpa3-external-supplicant/release-v1.1.0 -c advice.detachedHead=false checkout release-v1.1.0 --force
+Finished processing wpa3-external-supplicant
+HEAD is now at b5468a9 fixed usrcmd template
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/middleware-ntshell/latest-v2.X -c advice.detachedHead=false checkout latest-v2.X --force
+Finished processing middleware-ntshell
+HEAD is now at e956f2bb Upload device-db 4.17.0.6514 [2618]
+Success: git -C C:/Users/srien/.modustoolbox/global/device-db/release-v4.17.0 -c advice.detachedHead=false checkout release-v4.17.0 --force
+Finished processing device-db
+Submodule path 'demos/jobs/jobs_demo_mosquitto/libmosquitto': checked out '0bdf630c2757047dcbf1fd3ad6b7a245addd87fa'
+Submodule path 'libraries/3rdparty/CMock': checked out '150573c742ce15061a0b675aa0f8e29c85008062'
+Submodule path 'libraries/aws/device-defender-for-aws-iot-embedded-sdk': checked out '548b4688b26d16d0e6134d7d93dcbae103994e40'
+Submodule path 'libraries/aws/device-shadow-for-aws-iot-embedded-sdk': checked out 'ff5a3e174ca8f805051c14d9c15b500196e3f79a'
+Submodule path 'libraries/aws/jobs-for-aws-iot-embedded-sdk': checked out '19788445bca7f8f85167c83ac12379d3d1022295'
+Submodule path 'libraries/aws/ota-for-aws-iot-embedded-sdk': checked out '666241d0f643b07d5146a3715b649d80f8135e0b'
+Submodule path 'libraries/standard/backoffAlgorithm': checked out '741697917a5b9264cd5c11e54e23ce3fe3472636'
+Submodule path 'libraries/standard/coreHTTP': checked out '88c836c18f46c5ab862810f56b023ecb2ddf7b7b'
+Submodule path 'libraries/standard/coreJSON': checked out '19b48dbf1b1f8753d61d8e2916137904ce12b293'
+Submodule path 'libraries/standard/coreMQTT': checked out 'ffb68182abfab5e2b9df6ac24b17e3e0fec7b67f'
+Submodule path 'libraries/standard/corePKCS11': checked out 'a739b86f90bde81aeea19dab6315250983730211'
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00 -c protocol.file.allow=always submodule update --init --force
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/3rdparty/CMock -c protocol.file.allow=always submodule update --init --force
+Submodule path 'vendor/c_exception': checked out '71b47be7c950f1bf5f7e5303779fa99a16224bb6'
+Submodule path 'vendor/unity': checked out 'cf949f45ca6d172a177b00da21310607b97bc7a7'
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/3rdparty/CMock -c protocol.file.allow=always submodule update --init --force
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/device-defender-for-aws-iot-embedded-sdk -c protocol.file.allow=always submodule update --init --force
+Skipping submodule 'test/cbmc/aws-templates-for-cbmc-proofs'
+Skipping submodule 'test/cbmc/litani'
+Skipping submodule 'test/unit-test/Unity'
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/device-defender-for-aws-iot-embedded-sdk -c protocol.file.allow=always submodule update --init --force
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/device-shadow-for-aws-iot-embedded-sdk -c protocol.file.allow=always submodule update --init --force
+Skipping submodule 'test/cbmc/aws-templates-for-cbmc-proofs'
+Skipping submodule 'test/cbmc/litani'
+Skipping submodule 'test/unit-test/CMock'
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/device-shadow-for-aws-iot-embedded-sdk -c protocol.file.allow=always submodule update --init --force
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/jobs-for-aws-iot-embedded-sdk -c protocol.file.allow=always submodule update --init --force
+Skipping submodule 'test/cbmc/aws-templates-for-cbmc-proofs'
+Skipping submodule 'test/cbmc/litani'
+Skipping submodule 'test/unit-test/Unity'
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/jobs-for-aws-iot-embedded-sdk -c protocol.file.allow=always submodule update --init --force
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/ota-for-aws-iot-embedded-sdk -c protocol.file.allow=always submodule update --init --force
+Skipping submodule 'test/unit-test/CMock'
+Submodule path 'source/dependency/3rdparty/tinycbor': checked out '9924cfed3b95ad6de299ae675064430fdb886216'
+Submodule path 'source/dependency/coreJSON': checked out '97a906a2761b71434ffa9d838cd0500543b7dadc'
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/ota-for-aws-iot-embedded-sdk -c protocol.file.allow=always submodule update --init --force
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/standard/backoffAlgorithm -c protocol.file.allow=always submodule update --init --force
+Skipping submodule 'test/unit-test/Unity'
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/standard/backoffAlgorithm -c protocol.file.allow=always submodule update --init --force
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/standard/coreHTTP -c protocol.file.allow=always submodule update --init --force
+Skipping submodule 'test/cbmc/aws-templates-for-cbmc-proofs'
+Skipping submodule 'test/cbmc/litani'
+Skipping submodule 'test/unit-test/CMock'
+Submodule path 'source/dependency/3rdparty/http_parser': checked out 'ec8b5ee63f0e51191ea43bb0c6eac7bfbff3141d'
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/standard/coreHTTP -c protocol.file.allow=always submodule update --init --force
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/standard/coreJSON -c protocol.file.allow=always submodule update --init --force
+Skipping submodule 'test/cbmc/aws-templates-for-cbmc-proofs'
+Skipping submodule 'test/cbmc/litani'
+Skipping submodule 'test/unit-test/Unity'
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/standard/coreJSON -c protocol.file.allow=always submodule update --init --force
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/standard/coreMQTT -c protocol.file.allow=always submodule update --init --force
+Skipping submodule 'test/cbmc/aws-templates-for-cbmc-proofs'
+Skipping submodule 'test/cbmc/litani'
+Skipping submodule 'test/unit-test/CMock'
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/standard/coreMQTT -c protocol.file.allow=always submodule update --init --force
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/standard/corePKCS11 -c protocol.file.allow=always submodule update --init --force
+Skipping submodule 'source/dependency/3rdparty/mbedtls'
+Skipping submodule 'test/cbmc/aws-templates-for-cbmc-proofs'
+Skipping submodule 'test/cbmc/litani'
+Skipping submodule 'test/unit-test/CMock'
+Submodule path 'source/dependency/3rdparty/pkcs11': checked out '9304ef6842d08d881ccd1daa8d3a428f3a9671ee'
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/standard/corePKCS11 -c protocol.file.allow=always submodule update --init --force
+Starting: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/ota-for-aws-iot-embedded-sdk/source/dependency/coreJSON -c protocol.file.allow=always submodule update --init --force
+Skipping submodule 'test/cbmc/aws-templates-for-cbmc-proofs'
+Skipping submodule 'test/cbmc/litani'
+Skipping submodule 'test/unit-test/Unity'
+Success: git -C C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/ota-for-aws-iot-embedded-sdk/source/dependency/coreJSON -c protocol.file.allow=always submodule update --init --force
+Finished processing aws-iot-device-sdk-embedded-C
+Successfully committed changes to the project 'mtb-example-psoc6-freertos-wifi-mqtt-client'.
+0 error(s), 0 warning(s)
+Successfully updated application "PSoC-6_with_BDH_Platform_Template"
+Updating Launch Configurations ...
+Calling "make eclipse" ...
+command 'C:/Users/srien/ModusToolbox/tools_3.2/modus-shell/bin/bash --norc --noprofile -c make eclipse'
+  directory 'C:/Infineon_MQTT_Wifi_by_BDH/mqtt_wifi_from_ff_contents/PSoC-6_with_BDH_Platform_Template'
+  child process exited with error code 2
+../mtb_shared/core-make/release-v3.0.3/make/core/main.mk:339: *** .  Stop.
+ERROR:"make eclipse" failed
+
+Starting to refresh dependencies for project 'mtb-example-psoc6-freertos-wifi-mqtt-client'.
+Refreshed all dependencies for project 'mtb-example-psoc6-freertos-wifi-mqtt-client'.
+
+Summary:
+Successfully updated application "PSoC-6_with_BDH_Platform_Template"
+Successfully refreshed dependencies.
+Done.
